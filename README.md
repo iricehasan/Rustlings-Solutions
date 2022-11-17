@@ -24,7 +24,7 @@
 | `generics`               | 2/2       | [:link:](https://github.com/iricehasan/Rustlings-Solutions/tree/main/exercises/generics)             |
 | `option`                 | 3/3       | [:link:](https://github.com/iricehasan/Rustlings-Solutions/tree/main/exercises/options)              |
 | `traits`                 | 0/2       | [:link:](https://github.com/iricehasan/Rustlings-Solutions/tree/main/exercises/traits)               |
-| `vectors`                | 2/2       | [:link:](https://github.com/iricehasan/Rustlings-Solutions/tree/main/exercises/vectors)              |
+| `vectors`                | 2/2       | [:link:](https://github.com/iricehasan/Rustlings-Solutions/tree/main/exercises/vecs)                 |
 | `lifetimes`              | 3/3       | [:link:](https://github.com/iricehasan/Rustlings-Solutions/tree/main/exercises/lifetimes)            |
 
 <div align="center">
